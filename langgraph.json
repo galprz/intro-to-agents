@@ -1,0 +1,12 @@
+{
+    "python_version": "3.12",
+    "dockerfile_lines": [],
+    "dependencies": [
+      "."
+    ],
+    "graphs": {
+      "agent_no_memory": "./langgraph_debug.py:agent_no_memory",
+      "agent_with_web_and_memory": "./langgraph_debug.py:agent_with_web_and_memory"
+    },
+    "env": ".env"
+  }

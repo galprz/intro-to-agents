@@ -1,0 +1,868 @@
+[
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "tool",
+        "importPath": "langchain_core.tools",
+        "description": "langchain_core.tools",
+        "isExtraImport": true,
+        "detail": "langchain_core.tools",
+        "documentation": {}
+    },
+    {
+        "label": "tool",
+        "importPath": "langchain_core.tools",
+        "description": "langchain_core.tools",
+        "isExtraImport": true,
+        "detail": "langchain_core.tools",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "langchain_core.tools",
+        "description": "langchain_core.tools",
+        "isExtraImport": true,
+        "detail": "langchain_core.tools",
+        "documentation": {}
+    },
+    {
+        "label": "tool",
+        "importPath": "langchain_core.tools",
+        "description": "langchain_core.tools",
+        "isExtraImport": true,
+        "detail": "langchain_core.tools",
+        "documentation": {}
+    },
+    {
+        "label": "tool",
+        "importPath": "langchain_core.tools",
+        "description": "langchain_core.tools",
+        "isExtraImport": true,
+        "detail": "langchain_core.tools",
+        "documentation": {}
+    },
+    {
+        "label": "tool",
+        "importPath": "langchain_core.tools",
+        "description": "langchain_core.tools",
+        "isExtraImport": true,
+        "detail": "langchain_core.tools",
+        "documentation": {}
+    },
+    {
+        "label": "convert_to_openai_tool",
+        "importPath": "langchain_core.utils.function_calling",
+        "description": "langchain_core.utils.function_calling",
+        "isExtraImport": true,
+        "detail": "langchain_core.utils.function_calling",
+        "documentation": {}
+    },
+    {
+        "label": "convert_to_openai_tool",
+        "importPath": "langchain_core.utils.function_calling",
+        "description": "langchain_core.utils.function_calling",
+        "isExtraImport": true,
+        "detail": "langchain_core.utils.function_calling",
+        "documentation": {}
+    },
+    {
+        "label": "ToolExecutor",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "ToolInvocation",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "create_react_agent",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "ToolExecutor",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "ToolInvocation",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "SerpAPIWrapper",
+        "importPath": "langchain_community.utilities",
+        "description": "langchain_community.utilities",
+        "isExtraImport": true,
+        "detail": "langchain_community.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "SerpAPIWrapper",
+        "importPath": "langchain_community.utilities",
+        "description": "langchain_community.utilities",
+        "isExtraImport": true,
+        "detail": "langchain_community.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "langchain_core.prompts.chat",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "langchain_core.prompts.chat",
+        "description": "langchain_core.prompts.chat",
+        "detail": "langchain_core.prompts.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts.chat",
+        "description": "langchain_core.prompts.chat",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts.chat",
+        "description": "langchain_core.prompts.chat",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts.chat",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesPlaceholder",
+        "importPath": "langchain_core.prompts.chat",
+        "description": "langchain_core.prompts.chat",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "ToolMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "ToolMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "operator",
+        "description": "operator",
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "MemorySaver",
+        "importPath": "langgraph.checkpoint.memory",
+        "description": "langgraph.checkpoint.memory",
+        "isExtraImport": true,
+        "detail": "langgraph.checkpoint.memory",
+        "documentation": {}
+    },
+    {
+        "label": "DuckDuckGoSearchRun",
+        "importPath": "langchain_community.tools.ddg_search",
+        "description": "langchain_community.tools.ddg_search",
+        "isExtraImport": true,
+        "detail": "langchain_community.tools.ddg_search",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages.system",
+        "description": "langchain_core.messages.system",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages.system",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "isExtraImport": true,
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "agent_executor_with_persistence_mem",
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "isExtraImport": true,
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "AgentState",
+        "kind": 6,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "class AgentState(TypedDict):\n    messages: Annotated[Sequence[BaseMessage], operator.add]\n#%%\n# Define the Nodes\nimport json\nfrom langgraph.prebuilt import ToolInvocation\ndef agent_node(state):\n    messages = state[\"messages\"]\n    response: AIMessage = agent.invoke({\"messages\": messages})\n    return {\"messages\": [response]}",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "search_google",
+        "kind": 2,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "def search_google(query: str) -> str:\n    \"\"\"This tool searches google and returns the search results from the web\"\"\"\n    return search.run(query)\ntools = [search_google]\ntool_repr = [convert_to_openai_tool(tool) for tool in tools]\ntool_executor = ToolExecutor(tools)\n#%%\n# Define the prompt\nfrom langchain_core.prompts.chat import ChatPromptTemplate \nprompt = ChatPromptTemplate([",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "agent_node",
+        "kind": 2,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "def agent_node(state):\n    messages = state[\"messages\"]\n    response: AIMessage = agent.invoke({\"messages\": messages})\n    return {\"messages\": [response]}\ndef should_continue(state):\n    messages = state[\"messages\"]\n    last_message = messages[-1]\n    if \"tool_calls\" not in last_message.additional_kwargs:\n        return END\n    else:",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "should_continue",
+        "kind": 2,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "def should_continue(state):\n    messages = state[\"messages\"]\n    last_message = messages[-1]\n    if \"tool_calls\" not in last_message.additional_kwargs:\n        return END\n    else:\n        return \"action\"\ndef action(state):\n    messages = state[\"messages\"]\n    last_message = messages[-1]",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "kind": 2,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "def action(state):\n    messages = state[\"messages\"]\n    last_message = messages[-1]\n    tool_responses = []\n    for tool in last_message.additional_kwargs[\"tool_calls\"]:\n        action = ToolInvocation(\n            tool=tool[\"function\"][\"name\"],\n            tool_input=json.loads(tool[\"function\"][\"arguments\"]),\n        )\n        tool_response = tool_executor.invoke(action)",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "search = SerpAPIWrapper(params={\n    \"engine\": \"google\",\n    \"gl\": \"us\",\n    \"hl\": \"en\",\n})\n@tool\ndef search_google(query: str) -> str:\n    \"\"\"This tool searches google and returns the search results from the web\"\"\"\n    return search.run(query)\ntools = [search_google]",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "tools",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "tools = [search_google]\ntool_repr = [convert_to_openai_tool(tool) for tool in tools]\ntool_executor = ToolExecutor(tools)\n#%%\n# Define the prompt\nfrom langchain_core.prompts.chat import ChatPromptTemplate \nprompt = ChatPromptTemplate([\n    (\"system\", \"You are a helpful AI bot. you need to answer the user's questions. you can use search tool if you need to get data from the internet and then answer the user's question.\"),\n    (\"human\", \"you will get the conversation and need to understand the question and answer it as accurately as possible.\"),\n    (\"placeholder\", \"{messages}\")]",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "tool_repr",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "tool_repr = [convert_to_openai_tool(tool) for tool in tools]\ntool_executor = ToolExecutor(tools)\n#%%\n# Define the prompt\nfrom langchain_core.prompts.chat import ChatPromptTemplate \nprompt = ChatPromptTemplate([\n    (\"system\", \"You are a helpful AI bot. you need to answer the user's questions. you can use search tool if you need to get data from the internet and then answer the user's question.\"),\n    (\"human\", \"you will get the conversation and need to understand the question and answer it as accurately as possible.\"),\n    (\"placeholder\", \"{messages}\")]\n)",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "tool_executor",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "tool_executor = ToolExecutor(tools)\n#%%\n# Define the prompt\nfrom langchain_core.prompts.chat import ChatPromptTemplate \nprompt = ChatPromptTemplate([\n    (\"system\", \"You are a helpful AI bot. you need to answer the user's questions. you can use search tool if you need to get data from the internet and then answer the user's question.\"),\n    (\"human\", \"you will get the conversation and need to understand the question and answer it as accurately as possible.\"),\n    (\"placeholder\", \"{messages}\")]\n)\n#%%",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "prompt = ChatPromptTemplate([\n    (\"system\", \"You are a helpful AI bot. you need to answer the user's questions. you can use search tool if you need to get data from the internet and then answer the user's question.\"),\n    (\"human\", \"you will get the conversation and need to understand the question and answer it as accurately as possible.\"),\n    (\"placeholder\", \"{messages}\")]\n)\n#%%\n# Initialize the model and bind the tools\nfrom langchain_openai import ChatOpenAI\nllm = ChatOpenAI(model=\"gpt-4o\", temperature=0, streaming=True)\nagent = llm.bind_tools(tools)",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "llm = ChatOpenAI(model=\"gpt-4o\", temperature=0, streaming=True)\nagent = llm.bind_tools(tools)\nagent = prompt | agent\n# %%\n# Define the state\nfrom typing import TypedDict, Annotated, Sequence\nfrom langchain_core.messages import BaseMessage, AIMessage, ToolMessage\nimport operator\nclass AgentState(TypedDict):\n    messages: Annotated[Sequence[BaseMessage], operator.add]",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "agent",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "agent = llm.bind_tools(tools)\nagent = prompt | agent\n# %%\n# Define the state\nfrom typing import TypedDict, Annotated, Sequence\nfrom langchain_core.messages import BaseMessage, AIMessage, ToolMessage\nimport operator\nclass AgentState(TypedDict):\n    messages: Annotated[Sequence[BaseMessage], operator.add]\n#%%",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "agent",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "agent = prompt | agent\n# %%\n# Define the state\nfrom typing import TypedDict, Annotated, Sequence\nfrom langchain_core.messages import BaseMessage, AIMessage, ToolMessage\nimport operator\nclass AgentState(TypedDict):\n    messages: Annotated[Sequence[BaseMessage], operator.add]\n#%%\n# Define the Nodes",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "workflow",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "workflow = StateGraph(AgentState)\nworkflow.add_node(\"agent_node\", agent_node)\nworkflow.add_node(\"action\", action)\nworkflow.set_entry_point(\"agent_node\")\nworkflow.add_conditional_edges(\n    \"agent_node\",\n    should_continue,\n)\nworkflow.add_edge(\"action\", \"agent_node\")\ngraph = workflow.compile()",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "graph = workflow.compile()\n# %%\n# Run Apple stock query\nfrom langchain_core.messages import HumanMessage\nmessages = {\"messages\": [HumanMessage(content=\"What is the current price of apple stock?\")]}\noutput = graph.invoke(messages)\n# %%\noutput[\"messages\"][-1].pretty_print()\n# %%\nfrom langchain_core.messages import HumanMessage",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "messages = {\"messages\": [HumanMessage(content=\"What is the current price of apple stock?\")]}\noutput = graph.invoke(messages)\n# %%\noutput[\"messages\"][-1].pretty_print()\n# %%\nfrom langchain_core.messages import HumanMessage\nmessages = {\"messages\": [HumanMessage(content=\"And what about Microsoft?\")]}\noutput = graph.invoke(messages)\n# %%\noutput[\"messages\"][-1].pretty_print()",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "output = graph.invoke(messages)\n# %%\noutput[\"messages\"][-1].pretty_print()\n# %%\nfrom langchain_core.messages import HumanMessage\nmessages = {\"messages\": [HumanMessage(content=\"And what about Microsoft?\")]}\noutput = graph.invoke(messages)\n# %%\noutput[\"messages\"][-1].pretty_print()\n# %%",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "messages = {\"messages\": [HumanMessage(content=\"And what about Microsoft?\")]}\noutput = graph.invoke(messages)\n# %%\noutput[\"messages\"][-1].pretty_print()\n# %%\nfrom langgraph.checkpoint.memory import MemorySaver\nmemory = MemorySaver()\nagent_executor_with_persistence_mem = workflow.compile(checkpointer=memory)\n#%%\nagent_executor_with_persistence_mem = workflow.compile(checkpointer=memory)",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "output = graph.invoke(messages)\n# %%\noutput[\"messages\"][-1].pretty_print()\n# %%\nfrom langgraph.checkpoint.memory import MemorySaver\nmemory = MemorySaver()\nagent_executor_with_persistence_mem = workflow.compile(checkpointer=memory)\n#%%\nagent_executor_with_persistence_mem = workflow.compile(checkpointer=memory)\nTHREAD_ID = \"1\"",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "memory",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "memory = MemorySaver()\nagent_executor_with_persistence_mem = workflow.compile(checkpointer=memory)\n#%%\nagent_executor_with_persistence_mem = workflow.compile(checkpointer=memory)\nTHREAD_ID = \"1\"\ninputs = {\"messages\":[HumanMessage(content=\"what is the price of apple stock?\")]}\nfor event in agent_executor_with_persistence_mem.stream(inputs, {\"configurable\": {\"thread_id\": THREAD_ID}}):\n    for k, v in event.items():\n        if k != \"__end__\":\n            print(v)",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "agent_executor_with_persistence_mem",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "agent_executor_with_persistence_mem = workflow.compile(checkpointer=memory)\n#%%\nagent_executor_with_persistence_mem = workflow.compile(checkpointer=memory)\nTHREAD_ID = \"1\"\ninputs = {\"messages\":[HumanMessage(content=\"what is the price of apple stock?\")]}\nfor event in agent_executor_with_persistence_mem.stream(inputs, {\"configurable\": {\"thread_id\": THREAD_ID}}):\n    for k, v in event.items():\n        if k != \"__end__\":\n            print(v)\n# %%",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "agent_executor_with_persistence_mem",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "agent_executor_with_persistence_mem = workflow.compile(checkpointer=memory)\nTHREAD_ID = \"1\"\ninputs = {\"messages\":[HumanMessage(content=\"what is the price of apple stock?\")]}\nfor event in agent_executor_with_persistence_mem.stream(inputs, {\"configurable\": {\"thread_id\": THREAD_ID}}):\n    for k, v in event.items():\n        if k != \"__end__\":\n            print(v)\n# %%\ninputs = {\"messages\":[HumanMessage(content=\"and of Microsoft?\")]}\nfor event in agent_executor_with_persistence_mem.stream(inputs, {\"configurable\": {\"thread_id\": THREAD_ID}}):",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "THREAD_ID",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "THREAD_ID = \"1\"\ninputs = {\"messages\":[HumanMessage(content=\"what is the price of apple stock?\")]}\nfor event in agent_executor_with_persistence_mem.stream(inputs, {\"configurable\": {\"thread_id\": THREAD_ID}}):\n    for k, v in event.items():\n        if k != \"__end__\":\n            print(v)\n# %%\ninputs = {\"messages\":[HumanMessage(content=\"and of Microsoft?\")]}\nfor event in agent_executor_with_persistence_mem.stream(inputs, {\"configurable\": {\"thread_id\": THREAD_ID}}):\n    for k, v in event.items():",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "inputs",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "inputs = {\"messages\":[HumanMessage(content=\"what is the price of apple stock?\")]}\nfor event in agent_executor_with_persistence_mem.stream(inputs, {\"configurable\": {\"thread_id\": THREAD_ID}}):\n    for k, v in event.items():\n        if k != \"__end__\":\n            print(v)\n# %%\ninputs = {\"messages\":[HumanMessage(content=\"and of Microsoft?\")]}\nfor event in agent_executor_with_persistence_mem.stream(inputs, {\"configurable\": {\"thread_id\": THREAD_ID}}):\n    for k, v in event.items():\n        if k != \"__end__\":",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "inputs",
+        "kind": 5,
+        "importPath": "agent_with_state.agent_with_state",
+        "description": "agent_with_state.agent_with_state",
+        "peekOfCode": "inputs = {\"messages\":[HumanMessage(content=\"and of Microsoft?\")]}\nfor event in agent_executor_with_persistence_mem.stream(inputs, {\"configurable\": {\"thread_id\": THREAD_ID}}):\n    for k, v in event.items():\n        if k != \"__end__\":\n            print(v)\n# %%",
+        "detail": "agent_with_state.agent_with_state",
+        "documentation": {}
+    },
+    {
+        "label": "char_counter",
+        "kind": 2,
+        "importPath": "hello_world.hello_world_the_agent_edition",
+        "description": "hello_world.hello_world_the_agent_edition",
+        "peekOfCode": "def char_counter(sentence: str, char: str) ->  str:\n    \"\"\"This tool count the number of occurrences there are for specific char in a given sentence and returns the number.\"\"\"\n    return f\"Number of occurrences of '{char}' in the sentence is: {sentence.count(char)}\"\ntools = [char_counter]\nagent = create_react_agent(llm, tools=tools)\n#%%\ninputs = {\"messages\": [(\"user\", \"how many 'r' in strewberry\")]}\noutput = agent.invoke(inputs)\nfor msg in output[\"messages\"]:\n    print(msg.pretty_repr())",
+        "detail": "hello_world.hello_world_the_agent_edition",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "hello_world.hello_world_the_agent_edition",
+        "description": "hello_world.hello_world_the_agent_edition",
+        "peekOfCode": "llm = ChatOpenAI(model=\"gpt-4o\", temperature=0, top_p=0.00000001)\n#%%\n# Ask the llm a question\noutput = llm.invoke(\"How many occurrences of 'r' in strewberry\")\nprint(output.content)\n#%%\n# Setup the agent\nfrom langgraph.prebuilt import create_react_agent\nfrom langchain_core.tools import tool\n@tool",
+        "detail": "hello_world.hello_world_the_agent_edition",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "hello_world.hello_world_the_agent_edition",
+        "description": "hello_world.hello_world_the_agent_edition",
+        "peekOfCode": "output = llm.invoke(\"How many occurrences of 'r' in strewberry\")\nprint(output.content)\n#%%\n# Setup the agent\nfrom langgraph.prebuilt import create_react_agent\nfrom langchain_core.tools import tool\n@tool\ndef char_counter(sentence: str, char: str) ->  str:\n    \"\"\"This tool count the number of occurrences there are for specific char in a given sentence and returns the number.\"\"\"\n    return f\"Number of occurrences of '{char}' in the sentence is: {sentence.count(char)}\"",
+        "detail": "hello_world.hello_world_the_agent_edition",
+        "documentation": {}
+    },
+    {
+        "label": "tools",
+        "kind": 5,
+        "importPath": "hello_world.hello_world_the_agent_edition",
+        "description": "hello_world.hello_world_the_agent_edition",
+        "peekOfCode": "tools = [char_counter]\nagent = create_react_agent(llm, tools=tools)\n#%%\ninputs = {\"messages\": [(\"user\", \"how many 'r' in strewberry\")]}\noutput = agent.invoke(inputs)\nfor msg in output[\"messages\"]:\n    print(msg.pretty_repr())\n# %%",
+        "detail": "hello_world.hello_world_the_agent_edition",
+        "documentation": {}
+    },
+    {
+        "label": "agent",
+        "kind": 5,
+        "importPath": "hello_world.hello_world_the_agent_edition",
+        "description": "hello_world.hello_world_the_agent_edition",
+        "peekOfCode": "agent = create_react_agent(llm, tools=tools)\n#%%\ninputs = {\"messages\": [(\"user\", \"how many 'r' in strewberry\")]}\noutput = agent.invoke(inputs)\nfor msg in output[\"messages\"]:\n    print(msg.pretty_repr())\n# %%",
+        "detail": "hello_world.hello_world_the_agent_edition",
+        "documentation": {}
+    },
+    {
+        "label": "inputs",
+        "kind": 5,
+        "importPath": "hello_world.hello_world_the_agent_edition",
+        "description": "hello_world.hello_world_the_agent_edition",
+        "peekOfCode": "inputs = {\"messages\": [(\"user\", \"how many 'r' in strewberry\")]}\noutput = agent.invoke(inputs)\nfor msg in output[\"messages\"]:\n    print(msg.pretty_repr())\n# %%",
+        "detail": "hello_world.hello_world_the_agent_edition",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "hello_world.hello_world_the_agent_edition",
+        "description": "hello_world.hello_world_the_agent_edition",
+        "peekOfCode": "output = agent.invoke(inputs)\nfor msg in output[\"messages\"]:\n    print(msg.pretty_repr())\n# %%",
+        "detail": "hello_world.hello_world_the_agent_edition",
+        "documentation": {}
+    },
+    {
+        "label": "AgentState",
+        "kind": 6,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "class AgentState(TypedDict):\n    messages: Annotated[Sequence[BaseMessage], operator.add]\n#%%\n# Define the Nodes\nimport json\nfrom langgraph.prebuilt import ToolInvocation\ndef agent_node(state):\n    messages = state[\"messages\"]\n    response: AIMessage = agent.invoke(messages)\n    return {\"messages\": [response]}",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "characters_count",
+        "kind": 2,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "def characters_count(input: str) -> str:\n    \"\"\"This tool count the number of characters in a word and returns the number. use this tool only if the intent of the user is to count characters\"\"\"\n    return f\"The number of characters in the word is {len(input)}\"\ntools = [characters_count, DuckDuckGoSearchRun()]\ntool_repr = [convert_to_openai_tool(tool) for tool in tools]\ntool_executor = ToolExecutor(tools)\n#%%\n# Inspect how the tools are represented when you call an LLM\ntool_repr\n#%%",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "agent_node",
+        "kind": 2,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "def agent_node(state):\n    messages = state[\"messages\"]\n    response: AIMessage = agent.invoke(messages)\n    return {\"messages\": [response]}\ndef should_continue(state):\n    messages = state[\"messages\"]\n    last_message = messages[-1]\n    if \"tool_calls\" not in last_message.additional_kwargs:\n        return END\n    else:",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "should_continue",
+        "kind": 2,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "def should_continue(state):\n    messages = state[\"messages\"]\n    last_message = messages[-1]\n    if \"tool_calls\" not in last_message.additional_kwargs:\n        return END\n    else:\n        return \"action\"\ndef action(state):\n    messages = state[\"messages\"]\n    last_message = messages[-1]",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "kind": 2,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "def action(state):\n    messages = state[\"messages\"]\n    last_message = messages[-1]\n    tool_responses = []\n    for tool in last_message.additional_kwargs[\"tool_calls\"]:\n        action = ToolInvocation(\n            tool=tool[\"function\"][\"name\"],\n            tool_input=json.loads(tool[\"function\"][\"arguments\"]),\n        )\n        tool_response = tool_executor.invoke(action)",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "tools",
+        "kind": 5,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "tools = [characters_count, DuckDuckGoSearchRun()]\ntool_repr = [convert_to_openai_tool(tool) for tool in tools]\ntool_executor = ToolExecutor(tools)\n#%%\n# Inspect how the tools are represented when you call an LLM\ntool_repr\n#%%\n# Define the agent\nfrom langchain_openai import ChatOpenAI\nfrom langchain_core.messages.system import SystemMessage",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "tool_repr",
+        "kind": 5,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "tool_repr = [convert_to_openai_tool(tool) for tool in tools]\ntool_executor = ToolExecutor(tools)\n#%%\n# Inspect how the tools are represented when you call an LLM\ntool_repr\n#%%\n# Define the agent\nfrom langchain_openai import ChatOpenAI\nfrom langchain_core.messages.system import SystemMessage\nfrom langchain_core.prompts.chat import ChatPromptTemplate, MessagesPlaceholder",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "tool_executor",
+        "kind": 5,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "tool_executor = ToolExecutor(tools)\n#%%\n# Inspect how the tools are represented when you call an LLM\ntool_repr\n#%%\n# Define the agent\nfrom langchain_openai import ChatOpenAI\nfrom langchain_core.messages.system import SystemMessage\nfrom langchain_core.prompts.chat import ChatPromptTemplate, MessagesPlaceholder\nllm = ChatOpenAI(model=\"gpt-4o\", temperature=0, streaming=True)",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "llm = ChatOpenAI(model=\"gpt-4o\", temperature=0, streaming=True)\nagent = llm.bind_tools(tools)\n# %%\n# Test the agent\nmsg = agent.invoke(\"How many characters are in the word 'hello'\")\nmsg\n# %%\nmsg.additional_kwargs\n# %%\n# Define the Agent's State",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "agent",
+        "kind": 5,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "agent = llm.bind_tools(tools)\n# %%\n# Test the agent\nmsg = agent.invoke(\"How many characters are in the word 'hello'\")\nmsg\n# %%\nmsg.additional_kwargs\n# %%\n# Define the Agent's State\nfrom typing import TypedDict, Annotated, Sequence",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "msg",
+        "kind": 5,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "msg = agent.invoke(\"How many characters are in the word 'hello'\")\nmsg\n# %%\nmsg.additional_kwargs\n# %%\n# Define the Agent's State\nfrom typing import TypedDict, Annotated, Sequence\nfrom langchain_core.messages import BaseMessage, AIMessage, ToolMessage\nimport operator\nclass AgentState(TypedDict):",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "workflow",
+        "kind": 5,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "workflow = StateGraph(AgentState)\nworkflow.add_node(\"agent_node\", agent_node)\nworkflow.add_node(\"action\", action)\nworkflow.set_entry_point(\"agent_node\")\nworkflow.add_conditional_edges(\n    \"agent_node\",\n    should_continue,\n)\nworkflow.add_edge(\"action\", \"agent_node\")\ngraph = workflow.compile()",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "graph = workflow.compile()\n# %%\n# Run the Graph\nfrom langchain_core.messages import HumanMessage\nmessages = {\"messages\": [HumanMessage(content=\"how many chars in the middle name of will smith? when searching the web count on your previous knowledge don't search the web\")]}\ngraph.invoke(messages)\n# %%\nfrom langchain_core.messages import HumanMessage\nmessages = {\"messages\": [HumanMessage(content=\"how many chars in the middle name of will smith?\")]}\ngraph.invoke(messages)",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "kind": 5,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "messages = {\"messages\": [HumanMessage(content=\"how many chars in the middle name of will smith? when searching the web count on your previous knowledge don't search the web\")]}\ngraph.invoke(messages)\n# %%\nfrom langchain_core.messages import HumanMessage\nmessages = {\"messages\": [HumanMessage(content=\"how many chars in the middle name of will smith?\")]}\ngraph.invoke(messages)\n# %%",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "kind": 5,
+        "importPath": "routing_strategy.openai_tools_based_agent",
+        "description": "routing_strategy.openai_tools_based_agent",
+        "peekOfCode": "messages = {\"messages\": [HumanMessage(content=\"how many chars in the middle name of will smith?\")]}\ngraph.invoke(messages)\n# %%",
+        "detail": "routing_strategy.openai_tools_based_agent",
+        "documentation": {}
+    }
+]

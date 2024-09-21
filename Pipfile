@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain-core = "*"
+python-dotenv = "*"
+langgraph = "*"
+duckduckgo-search = "*"
+langchain-openai = "*"
+langchain-community = "*"
+google-search-results = "*"
+
+[dev-packages]
+nest-asyncio = "*"
+ipykernel = "*"
+
+[requires]
+python_version = "3.12"
